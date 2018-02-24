@@ -1,0 +1,9 @@
+Package: io.0x27.package
+Name: ExamplePackage
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is an example layout of a package
+Homepage: https://Ox27.github.io/cydia
+Maintainer: 0x27 <escapethedeveloper@gmail.com>
+Author: 0x27 <escapethedeveloper@gmail.com>
+Section: Sample
